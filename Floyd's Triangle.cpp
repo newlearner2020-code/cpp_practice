@@ -17,7 +17,7 @@ int main()
 				b=0;
 				a=1;
 		}
-		for(j=i;j>0;j--)
+		for(j=1;j<i;j++)
 		{  
 			if(j%2==0)
 			{
